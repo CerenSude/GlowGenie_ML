@@ -3,7 +3,7 @@ Machine Learning component of the Glow Genie project.
 
  Skin Type Prediction Model
 
-This machine learning model is designed to predict a user's skin type based on their answers to a short 9-question survey. It is part of the GlowGenie skincare recommendation system.
+This machine learning model is designed to predict a user's skin type based on their answers to a short 8-question survey. It is part of the GlowGenie skincare recommendation system.
 
 📊 What the Model Does
 
